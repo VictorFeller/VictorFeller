@@ -20,7 +20,7 @@ I'm in my second year of bachelor in Informatique de gestion at Haute école de 
 ---
 ### Connect with me:
 [<img align="left" alt="victor-feller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 ---
 
 
