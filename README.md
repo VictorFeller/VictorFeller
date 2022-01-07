@@ -19,7 +19,7 @@ I'm in my second year of bachelor in Business Information Technology at Haute é
 
 ---
 ### Connect with me:
-[<img align="left" alt="victor-feller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="victor-feller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LinkedIn" />][linkedin]
 <br />
 ---
 ### Languages and Tools:
