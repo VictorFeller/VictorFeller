@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+##I'm in my second year of bachelor in Informatique de gestion at Haute école de gestion ARC, Neuchâtel.
 <!--
 **VictorFeller/VictorFeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
