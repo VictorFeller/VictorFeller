@@ -40,6 +40,9 @@ I'm in my second year of bachelor in Business Information Technology at Haute é
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFeller&show_icons=true)
+
+
 [linkedin]: https://www.linkedin.com/in/victor-feller
 <!--[website]: https://VFeller.com
 [twitter]: https://twitter.com/codeSTACKr
