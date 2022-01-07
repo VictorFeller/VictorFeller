@@ -48,10 +48,3 @@ I'm in my second year of bachelor in Business Information Technology at Haute é
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr-->
-
-
-
-<!-- Inspiration :
-                  https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
-                  https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr
--->
