@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Victor Feller 👋
 
-I'm in my second year of bachelor in Business Information Technology at Haute école de gestion ARC, Neuchâtel.
+I'm in my second year of bachelor in Business Information Technology at Haute école de gestion Arc, Neuchâtel.
 
 ---
 ### Connect with me:
