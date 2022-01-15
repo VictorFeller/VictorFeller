@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm in my second year of bachelor in Business Information Technology at Haute école de gestion Arc, Neuchâtel.
 
----
-### Connect with me:
+<!-----
+### Connect with me:-->
 [<img align="left" alt="victor-feller | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" title="LinkedIn" />][linkedin]
 
 <br />
