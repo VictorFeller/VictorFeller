@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Victor Feller 👋
 
-I'm in my second year of bachelor in Business Information Technology at Haute école de gestion Arc, Neuchâtel.
+I'm a bachelor Student in Business Information Technology at Haute école de gestion Arc, Neuchâtel, Switzerland.
+I'm currently working with Java, especially Data Structures, Oracle PL/SQL, XML and Python in me free time.
 
 <!-----
 ### Connect with me:-->
@@ -23,7 +24,7 @@ I'm in my second year of bachelor in Business Information Technology at Haute é
 
 <br />
 
----
+<!-- --- -->
 
 ### Languages and Tools:
 
