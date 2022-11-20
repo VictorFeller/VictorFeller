@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Victor Feller 👋
 
-I'm a partial time Software engineer and bachelor Student in Business Information Technology at Haute école de gestion Arc, Neuchâtel, Switzerland.
+I'm a partial time Software engineer and bachelor's degree student in Business Information Technology at Haute école de gestion Arc, Neuchâtel, Switzerland.
 I'm currently working for an IT company specialized in Swiss social insurance. These activities involve working with Java, Data Structures, REST, Oracle PL/SQL, SQL, XML, JSON and Python in me free time.
 
 <!-----
