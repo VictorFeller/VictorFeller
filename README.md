@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Victor Feller 👋
 
-I'm a Software engineer and bachelor's degree student in Business Information Technology at Haute école de gestion Arc, Neuchâtel, Switzerland.
-I'm currently working for an IT company specialized in Swiss social insurance. These activities involve working with Java, Data Structures, REST, Oracle PL/SQL, SQL, XML, JSON and Python in me free time.
+I'm a software engineer currently working for Globaz SA, a Swiss company specialized in software development for social insurances (1st and 2nd pillars).
+My activities involve working mainly with Java, JavaScript, Data Structures, REST APIs, SQL, XML, JSON and Python in my free time.
 
 <!-----
 ### Connect with me:-->
